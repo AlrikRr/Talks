@@ -3,6 +3,20 @@ My talk slides
 
 - Youtube Chanel : [AlrikRr](https://www.youtube.com/channel/UCHUrf2NqybwOFQ6tfYt3zNA)
 
+
+# 2024
+
+## Forum étudiant d'échange et d'information en cybercriminologie - FEEIC 26 January
+
+- Path : [`Workshop/FEEIC-2024_PentestingWorkshop.pdf`](Workshop/FEEIC-2024_PentestingWorkshop.pdf)
+
+### References
+
+- [DVWA](https://github.com/digininja/DVWA)
+- [DVWA-Docker](https://github.com/opsxcq/docker-vulnerable-dvwa)
+- [Root-Me](https://www.root-me.org/)
+- [KaliLinux](https://www.kali.org/)
+
 # 2023
 
 ## Forum International de la CyberSecurité - FIC 25-26 October
